@@ -60,7 +60,7 @@
     ========================================*/
     $(window).on("load", function (event) {
         
-        $("#preloader").delay(4000).fadeOut(2000);
+        $("#preloader").delay(3400).fadeOut(2000);
         // Text Animation
         setTimeout(() => {
         var hasAnim = $(".anim-text");
