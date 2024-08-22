@@ -18,7 +18,7 @@
         }
 
         // Update this to your desired email address.
-        $recipient = "contact@yourdomain.com";
+        $recipient = "ogtay@vectrum.fr";
 		$subject = "Message from $fullname";
 
         // Email content.
