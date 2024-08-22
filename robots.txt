@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /index.html
-Allow: /about.html
-Disallow: /
+Allow: /
+
